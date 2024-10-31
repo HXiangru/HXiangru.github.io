@@ -9,7 +9,7 @@
 title                    : "Xiangru Huang"
 description              : "A MPhil student at the Boemo Group, Department of Pathology"
 repository               : "HXiangru/HXiangru.github.io"
-# google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/

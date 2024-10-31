@@ -1,8 +1,7 @@
 # main links links
 main:
-
-  - title: "Research Interests"
-    url: "/#-research-interests"
+  - title: "About Me"
+    url: "/#about-me"
 
   - title: "News"
     url: "/#-news"
@@ -10,17 +9,14 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Projects"
-    url: "/#-projects"
-
-  - title: "Intellectual Property"
-    url: "/#-intellectual-property"
-
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Academe Service"
-    url: "/#-academe-service"
+  - title: "Invited Talks"
+    url: "/#-invited-talks"
+
+  - title: "Internships"
+    url: "/#-internships"

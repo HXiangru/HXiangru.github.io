@@ -1,20 +1,26 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
+
+  - title: "Research Interests"
+    url: "/#-research-interests"
+
+  - title: "News"
+    url: "/#-news"
+
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Projects"
+    url: "/#-projects"
+
+  - title: "Intellectual Property"
+    url: "/#-intellectual-property"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Internships"
-    url: "/#-internships"
-
-  - title: "Skills"
-    url: "/#-Skills"
-
-  - title: "Languages"
-    url: "/#-Languages"
-
-  - title: "Interests"
-    url: "/#-Interests"
-
+  - title: "Academe Service"
+    url: "/#-academe-service"

@@ -25,8 +25,8 @@ main:
     url: "#-Skills"
 
   - title: "Languages"
-    url: "#-Languages"
+    url: "#Languages"
 
   - title: "Interests"
-    url: "#-Interests"
+    url: "#Interests"
 

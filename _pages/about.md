@@ -35,7 +35,7 @@ I graduated with the designation Cum Laude, from Maastricht Science Programme, M
 - *2024.02 - 2024.07*, [Department of Translational Genomics](https://www.maastrichtuniversity.nl/research/translational-genomics), Maastricht University, Netherlands.
 - *2023.07 - 2023.09*, [Jia Li's Lab](https://scholar.google.com/citations?user=kYBPKyAAAAAJ&hl=en), Guangzhou National Lab, China. 
 
-# 工具 Skills
+# 🛠️ Skills
 - 💻 **Computer**: HPC, R, Python, Java, JavaScript, HTML, SQL, SPARQL, Cytoscape, SPSS, Photoshop, Lightroom
 - 🔬 **Laboratory**: DNA cloning, BCA, WB, EMSA, IP, IHC, LDH, ICC staining, SDS-PAGE, AGE, PCR, RT-qPCR
 

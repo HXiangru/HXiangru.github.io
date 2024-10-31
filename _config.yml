@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiangru Huang"
+title                    : "Xiangru Huang (黄湘如)"
 description              : "A MPhil student at the Boemo Group, Department of Pathology"
 repository               : "HXiangru/HXiangru.github.io"
 google_scholar_stats_use_cdn : true

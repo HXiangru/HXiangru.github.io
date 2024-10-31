@@ -23,6 +23,9 @@ I graduated with the designation Cum Laude, from Maastricht Science Programme, M
 [Marcha Verheijen](https://www.maastrichtuniversity.nl/mct-verheijen).
 
 
+# 🔥 News
+- *2024.10*: Joined [Boemo Group](https://www.boemogroup.org/people?pgid=lbqqh8jg-2070e1f3-bf0a-4052-8350-1304fd0c4df4)! 
+
 # 📖 Educations
 - *2024.10 - 2025.10*, Master of Philosophy, University of Cambridge, United Kingdom. 
 - *2020.10 - 2024.07*, Bachelor of Science in Liberal Arts and Sciences (Cum Laude), Maastricht University, Netherlands.

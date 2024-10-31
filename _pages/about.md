@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes genomics and computational biology.
+My research interest includes **genomics** and **computational biology**, currently interning as a MPhil student in Cambridge, under the supervision of [Dr Michael Boemo](https://www.path.cam.ac.uk/directory/michael-boemo).
+
+I graduated with the designation Cum Laude, from Maastricht Science Programme, Maastricht University, Netherlands. My Bachelor's thesis research was supervised by [Dr Florian Caiment](https://www.maastrichtuniversity.nl/f-caiment) and Dr 
+[Marcha Verheijen](https://www.maastrichtuniversity.nl/mct-verheijen).
 
 
 # 📖 Educations
